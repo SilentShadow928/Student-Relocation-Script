@@ -10,4 +10,4 @@ What is your name? Answer in this format: First name [space] last name (Example:
 Who do you want to sit with? Answer in the same format as the previous question.\
 Who else do you want to sit with? Answer in the same format as the previous question.\
 Who else do you want to sit with? Answer in the same format as the previous question.\
-Who else do you want to sit with? Answer in the same format as the previous question.\
+Who else do you want to sit with? Answer in the same format as the previous question.
