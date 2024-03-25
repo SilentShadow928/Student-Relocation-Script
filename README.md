@@ -10,7 +10,7 @@ To install all required libraries, run
   
 ## Terminology:  
 DS - dissaproval score. This is how much the student and other students dislike the student being located there. The LOWER the better.\
-Kick - move a student from a group into a group with only them in it\
+Kick - move a student from a group into a group with only them in it  
   
 ## Input  
 This script takes data from a excel spreadsheet that is exported from a microsoft form.\
